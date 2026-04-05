@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](banner24.png)
 
 # Hi, I'm akhilleusn
 
