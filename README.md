@@ -1,4 +1,4 @@
-![banner](./Futuristic GitHub banner for Akhilleusn.png)
+![banner](./banner.png)
 
 # Hi, I'm akhilleusn
 
