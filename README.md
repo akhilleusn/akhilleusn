@@ -10,4 +10,4 @@
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-14-D4AF37?style=for-the-badge&labelColor=111111" />
 </p>
 
-<p align="center">Backend-focused software engineer in progress.</p>
+<p align="center">Backend-focused software engineer.</p>
