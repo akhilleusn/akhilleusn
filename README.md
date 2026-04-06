@@ -12,7 +12,7 @@
 </p>
 
 
-<p align="center">Backend-focused software engineer.</p>
+
 
 
 <p align="center">
@@ -22,3 +22,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=D4AF37" />
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=D4AF37" />
 </p>
+
+
+<p align="center">Backend-focused software engineer.</p>
