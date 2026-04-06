@@ -14,5 +14,5 @@
 <p align="center">Backend-focused software engineer.</p>
 
 <p align="center">
-  <img src="./tech-stack-gold.svg" alt="Java Python Spring Boot PostgreSQL Docker" />
+  <img src="./tech-stack-gold.png" alt="Java Python Spring Boot PostgreSQL Docker" />
 </p>
