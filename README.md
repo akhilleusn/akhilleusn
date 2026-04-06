@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/REPOSITORIES-2-D4AF37?style=for-the-badge&labelColor=111111" />
 </p>
 
-<h1 align="center">Hi, I'm akhilleusn</h1>
+
+<p align="center">Backend-focused software engineer.</p>
 
 
 <p align="center">
