@@ -14,9 +14,5 @@
 <p align="center">Backend-focused software engineer.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-D4AF37?style=for-the-badge&logo=openjdk&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Python-D4AF37?style=for-the-badge&logo=python&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Spring_Boot-D4AF37?style=for-the-badge&logo=springboot&logoColor=111111" />
-  <img src="https://img.shields.io/badge/PostgreSQL-D4AF37?style=for-the-badge&logo=postgresql&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Docker-D4AF37?style=for-the-badge&logo=docker&logoColor=111111" />
+  <img src="./tech-stack-gold.svg" alt="Java Python Spring Boot PostgreSQL Docker" />
 </p>
