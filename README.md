@@ -24,4 +24,4 @@
 </p>
 
 
-<p align="center">Backend-focused software engineer.</p>
+<p align="center">Backend developer — Java, Spring Boot, PostgreSQL. Building AetherOps..</p>
